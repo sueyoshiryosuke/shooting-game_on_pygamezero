@@ -6,6 +6,11 @@ MicroSoft Copilotとの対話を通して作りました。
 
 詳細は以下のリンク先に書いています。
 
+【AIと一緒に作ってみた】Pygame Zeroで縦シューティングを完成させるまで  
+｜Python初心者でもできるCopilotとの対話で学ぶゲーム制作の楽しさ
+
+https://qiita.com/168-sueyoshi/items/39cf9225a0e351373d54?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share
+
 ## 使い方、遊び方
 myapp_run.batを実行すると  
 myappフォルダ内のmain.pyが実行されます。
